@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\bin\Debug\net6.0\FuzzyRules.exe
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\bin\Debug\net6.0\FuzzyRules.deps.json
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\bin\Debug\net6.0\FuzzyRules.runtimeconfig.json
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\bin\Debug\net6.0\FuzzyRules.dll
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\bin\Debug\net6.0\FuzzyRules.pdb
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\FuzzyRules.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\FuzzyRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\FuzzyRules.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\FuzzyRules.AssemblyInfo.cs
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\FuzzyRules.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\FuzzyRules.dll
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\refint\FuzzyRules.dll
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\FuzzyRules.pdb
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\FuzzyRules.genruntimeconfig.cache
+C:\Users\user\Desktop\University Documents\AI\FuzzyRules\FuzzyRules\FuzzyRules\obj\Debug\net6.0\ref\FuzzyRules.dll
